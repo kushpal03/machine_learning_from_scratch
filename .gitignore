@@ -1,0 +1,12 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Antigravity / VS Code hidden files
+.virtual_documents/
+.vscode/
+
+# Environment files
+anaconda_projects/
+
+# Mac system files (just in case)
+.DS_Store
